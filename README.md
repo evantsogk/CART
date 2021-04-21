@@ -1,7 +1,7 @@
 # CART
-Implementation of a decision tree from scratch using the CART algorithm.
+Implementation of a decision tree from scratch using the CART algorithm. A package is available and an application in a Jupyter Notebook.
 
-** Methods: **
+**Methods**
 - build
 - predict
 - accuracy
@@ -11,7 +11,11 @@ Implementation of a decision tree from scratch using the CART algorithm.
 - get_n_leaves
 - print_tree
 
-** Hyperparameters **
+**Hyperparameters**
 - max_depth
 - min_samples_split
 
+
+## Example results in Car Evaluation Data Set
+<img src="./classification_report.png">
+<img src="./feature_importances.png">
