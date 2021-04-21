@@ -19,3 +19,4 @@ Implementation of a decision tree from scratch using the CART algorithm. A packa
 ## Example results in Car Evaluation Data Set
 <img src="./classification_report.png">
 <img src="./feature_importances.png">
+.
